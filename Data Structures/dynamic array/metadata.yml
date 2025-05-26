@@ -1,0 +1,12 @@
+---
+:id: 160001043
+:submitters:
+- :name: Mason Blanford
+  :email: blanform@oregonstate.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-07 03:34:48.963385000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-06 19:34:48.963385000 Z
+:status: processed
+:score: 97.5
